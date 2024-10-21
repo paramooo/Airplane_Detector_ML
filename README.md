@@ -1,4 +1,4 @@
-# ML_Aircraft_Detector
+# Aircraft Detector, Machine Learning
 
 This project develops an airplane detector using the [PlanesNet dataset](https://www.kaggle.com/datasets/rhammell/planesnet), which contains satellite images labeled as either "airplane" or "no airplane." The model's implementation and details are explained in the PDF located in the `/Aproxs` directory.
 
