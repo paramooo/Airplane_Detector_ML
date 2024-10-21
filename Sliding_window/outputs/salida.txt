@@ -1,0 +1,46 @@
+Analizando imagen 1 ...
+Total de ventanas:172711
+Número de grupos: 5
+Parte 1 de 5 completada
+Parte 2 de 5 completada
+Parte 3 de 5 completada
+Parte 4 de 5 completada
+Parte 5 de 5 completada
+Predicciones calculadas
+Bordes dibujados
+Imagen guardada en finaldeslizante/outputs/output1.png
+Tiempo total imagen 1: 9.2698532
+
+Analizando imagen 2 ...
+Total de ventanas:79870
+Número de grupos: 3
+Parte 1 de 3 completada
+Parte 2 de 3 completada
+Parte 3 de 3 completada
+Predicciones calculadas
+Bordes dibujados
+Imagen guardada en finaldeslizante/outputs/output2.png
+Tiempo total imagen 2: 8.4076479
+
+Analizando imagen 3 ...
+Total de ventanas:83216
+Número de grupos: 3
+Parte 1 de 3 completada
+Parte 2 de 3 completada
+Parte 3 de 3 completada
+Predicciones calculadas
+Bordes dibujados
+Imagen guardada en finaldeslizante/outputs/output3.png
+Tiempo total imagen 3: 5.7801847
+
+Analizando imagen 4 ...
+Total de ventanas:130290
+Número de grupos: 4
+Parte 1 de 4 completada
+Parte 2 de 4 completada
+Parte 3 de 4 completada
+Parte 4 de 4 completada
+Predicciones calculadas
+Bordes dibujados
+Imagen guardada en finaldeslizante/outputs/output4.png
+Tiempo total imagen 4: 4.9732801
